@@ -25051,7 +25051,7 @@ Can fix the homepage "request page not found" error!`
   // src/ResetScans/pbconfig.ts
   var pbconfig_default = {
     name: "ResetScans",
-    description: "Extension that pulls content from reset-scans.co.",
+    description: "Extension that pulls content from reset-scans.org.",
     version: getVersion({ increasePrerelease: 1 }),
     icon: "icon.png",
     language: "\u{1F1EC}\u{1F1E7}",
@@ -25067,7 +25067,7 @@ Can fix the homepage "request page not found" error!`
   };
 
   // src/ResetScans/main.ts
-  var DOMAIN = "https://reset-scans.co";
+  var DOMAIN = "https://reset-scans.org";
   var ResetScansExtension = class extends MadaraGeneric {
     constructor() {
       super({

@@ -1,5 +1,5 @@
 {
-  "buildTime": "2025-05-20T01:04:35.360Z",
+  "buildTime": "2025-05-25T23:00:41.322Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.52",
     "types": "1.0.0-alpha.52"
@@ -512,7 +512,7 @@
     },
     {
       "name": "ResetScans",
-      "description": "Extension that pulls content from reset-scans.co.",
+      "description": "Extension that pulls content from reset-scans.org.",
       "version": "1.0.0-alpha.4",
       "icon": "icon.png",
       "language": "🇬🇧",
