@@ -25052,7 +25052,7 @@ Can fix the homepage "request page not found" error!`
   var pbconfig_default = {
     name: "ResetScans",
     description: "Extension that pulls content from reset-scans.org.",
-    version: getVersion({ increasePrerelease: 1 }),
+    version: getVersion({ increasePrerelease: 2 }),
     icon: "icon.png",
     language: "\u{1F1EC}\u{1F1E7}",
     contentRating: import_types6.ContentRating.EVERYONE,
