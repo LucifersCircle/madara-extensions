@@ -1,8 +1,8 @@
 {
-  "buildTime": "2026-01-20T12:49:08.061Z",
+  "buildTime": "2026-06-15T02:56:34.643Z",
   "builtWith": {
-    "toolchain": "1.0.0-alpha.57",
-    "types": "1.0.0-alpha.57"
+    "toolchain": "1.0.0-alpha.87",
+    "types": "1.0.0-alpha.87"
   },
   "repository": {
     "name": "Madara Extensions (0.9)",
@@ -12,12 +12,18 @@
     {
       "name": "AllPornComic",
       "description": "Extension that pulls content from allporncomic.com.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "ADULT",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -30,12 +36,18 @@
     {
       "name": "ArthurScan",
       "description": "Extension that pulls content from arthurscan.xyz.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.12",
       "icon": "icon.png",
       "language": "pt",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -48,12 +60,18 @@
     {
       "name": "AzoraMoon",
       "description": "Extension that pulls content from azoramoon.com.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "ar",
       "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -65,13 +83,19 @@
     },
     {
       "name": "CoffeeManga",
-      "description": "Extension that pulls content from coffeemanga.io.",
-      "version": "1.0.0-alpha.6",
+      "description": "Extension that pulls content from coffeemanga.ink.",
+      "version": "1.0.0-alpha.13",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -84,12 +108,18 @@
     {
       "name": "DarkScans",
       "description": "Extension that pulls content from darkscans.net.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.12",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -102,12 +132,18 @@
     {
       "name": "DragonTea",
       "description": "Extension that pulls content from dragontea.ink.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -120,12 +156,18 @@
     {
       "name": "GourmetScans",
       "description": "Extension that pulls content from gourmetsupremacy.com.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -138,12 +180,18 @@
     {
       "name": "HariManga",
       "description": "Extension that pulls content from https://harimanga.me.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -156,12 +204,18 @@
     {
       "name": "HiperDex",
       "description": "Extension that pulls content from hiperdex.com.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.12",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "ADULT",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -174,12 +228,18 @@
     {
       "name": "KunManga",
       "description": "Extension that pulls content from kunmanga.com.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -192,12 +252,18 @@
     {
       "name": "LHTranslation",
       "description": "Extension that pulls content from lhtranslation.net.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.12",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -210,12 +276,18 @@
     {
       "name": "LekManga",
       "description": "Extension that pulls content from lekmanga.net.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "ar",
       "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -228,12 +300,18 @@
     {
       "name": "LilyManga",
       "description": "Extension that pulls content from lilymanga.net.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -246,12 +324,18 @@
     {
       "name": "MadaraDex",
       "description": "Extension that pulls content from madaradex.org.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.12",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "ADULT",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -264,12 +348,18 @@
     {
       "name": "Manga3asq",
       "description": "Extension that pulls content from 3asq.org.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "ar",
       "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -282,12 +372,18 @@
     {
       "name": "MangaClash",
       "description": "Extension that pulls content from toonclash.com.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -300,12 +396,18 @@
     {
       "name": "MangaDistrict",
       "description": "Extension that pulls content from mangadistrict.com.",
-      "version": "1.0.0-alpha.2",
+      "version": "1.0.0-alpha.9",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "ADULT",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -318,12 +420,18 @@
     {
       "name": "MangaOrigines",
       "description": "Extension that pulls content from mangas-origines.fr.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "fr",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -336,12 +444,18 @@
     {
       "name": "MangaReadOrg",
       "description": "Extension that pulls content from mangaread.org.",
-      "version": "1.0.0-alpha.8",
+      "version": "1.0.0-alpha.14",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -354,12 +468,18 @@
     {
       "name": "MangaScantrad",
       "description": "Extension that pulls content from manga-scantrad.io.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.12",
       "icon": "icon.png",
       "language": "fr",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -372,12 +492,18 @@
     {
       "name": "MangaZin",
       "description": "Extension that pulls content from mangazin.org.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -390,12 +516,18 @@
     {
       "name": "ManhuaFast",
       "description": "Extension that pulls content from manhuafast.com.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.12",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -408,12 +540,18 @@
     {
       "name": "ManhuaPlus",
       "description": "Extension that pulls content from manhuaplus.com.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -426,12 +564,18 @@
     {
       "name": "Manhuaus",
       "description": "Extension that pulls content from manhuaus.com.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -444,12 +588,18 @@
     {
       "name": "ManhwaRaw",
       "description": "Extension that pulls content from manhwa-raw.com.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "ko",
       "contentRating": "ADULT",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -462,12 +612,18 @@
     {
       "name": "ManhwaTop",
       "description": "Extension that pulls content from manhwatop.com.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -480,12 +636,18 @@
     {
       "name": "NovelMic",
       "description": "Extension that pulls content from novelmic.com.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.12",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -498,12 +660,18 @@
     {
       "name": "PlatinumScans",
       "description": "Extension that pulls content from platinumscans.com.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.12",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -516,12 +684,18 @@
     {
       "name": "ResetScans",
       "description": "Extension that pulls content from reset-scans.org.",
-      "version": "1.0.0-alpha.7",
+      "version": "1.0.0-alpha.13",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -534,12 +708,18 @@
     {
       "name": "SamuraiScan",
       "description": "Extension that pulls content from samurai.wordoco.com.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "es",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -552,12 +732,18 @@
     {
       "name": "SetsuScans",
       "description": "Extension that pulls content from setsuscans.com.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.12",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "MATURE",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -570,12 +756,18 @@
     {
       "name": "TheBlank",
       "description": "Extension that pulls content from theblank.net.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "ADULT",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -588,12 +780,18 @@
     {
       "name": "ToonGod",
       "description": "Extension that pulls content from toongod.com.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "ADULT",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -606,12 +804,18 @@
     {
       "name": "Toonily",
       "description": "Extension that pulls content from toonily.com.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.12",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "ADULT",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -624,12 +828,18 @@
     {
       "name": "UToon",
       "description": "Extension that pulls content from utoon.net.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
-      "contentRating": "MATURE",
+      "contentRating": "ADULT",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -642,12 +852,18 @@
     {
       "name": "WebtoonXYZ",
       "description": "Extension that pulls content from webtoon.xyz.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "ADULT",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
@@ -660,12 +876,18 @@
     {
       "name": "YaoiScan",
       "description": "Extension that pulls content from yaoiscan.com.",
-      "version": "1.0.0-alpha.2",
+      "version": "1.0.0-alpha.9",
       "icon": "icon.png",
-      "language": "🇬🇧",
+      "language": "en",
       "contentRating": "ADULT",
+      "capabilities": [
+        1,
+        16,
+        4,
+        32,
+        64
+      ],
       "badges": [],
-      "capabilities": 117,
       "developers": [
         {
           "name": "Inkdex",
